@@ -40,7 +40,7 @@ console.log("obj2:");
 console.log(obj2);
 
 obj1.param1 = 15
-obj1.param2 = "Finalmente cambie todo";
+obj1.param2 = "Finally all changed";
 
 console.info("after");
 console.log("obj1:");
