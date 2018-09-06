@@ -38,3 +38,12 @@ console.log("obj1:");
 console.log(obj1);
 console.log("obj2:");
 console.log(obj2);
+
+obj1.param1 = 15
+obj1.param2 = "Finalmente cambie todo";
+
+console.info("after");
+console.log("obj1:");
+console.log(obj1);
+console.log("obj2:");
+console.log(obj2);
