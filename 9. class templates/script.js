@@ -10,7 +10,7 @@ console.log(function1);
 //mechanics of functions first class
 console.log(function1.name);
 function1.nombre = "NewName";
-console.log(function1.name);
+console.log(function1.nombre);
 
 
 //functions allow create properties a methods
